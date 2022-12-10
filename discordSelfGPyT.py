@@ -1,9 +1,9 @@
-from ChatGPTClient import chatGPT
+from ChatGPyTClient import chatGPT
 from discum.utils.embed import Embedder
 import discum 
 
-TOKEN = "ODY2NzcxMTU1NDA2MTU5ODgy.Gh7mIG.3CIiMmxg3Bpo98Kn29r686CNqBhjb8y37M3THc"
-USER_ID = "866771155406159882"
+TOKEN = ""
+USER_ID = ""
 bot = discum.Client(token=TOKEN, log=False)
 
 chat = chatGPT()
