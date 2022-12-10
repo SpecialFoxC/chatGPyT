@@ -12,5 +12,5 @@ To reset a conversation use the function: chat.reset().
 To use this in the form of a discord selfbot simply put your discord TOKEN in the token field and your discord user_id in the USER_ID field. 
 This provides you with 2 self bot commands, 
 
-- /askChatGPT <question>
+- /askChatGPT {question}
 - /resetChatGPT
