@@ -15,5 +15,4 @@ This provides you with 2 self bot commands,
 - /askChatGPT {question}
 - /resetChatGPT
 
-_disclaimer_
-Using a discord self-bot is prohibited by discord. Use on own risk
+_Using a discord self-bot is prohibited by discord. Use on own risk_
